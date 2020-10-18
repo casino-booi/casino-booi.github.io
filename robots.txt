@@ -1,0 +1,3 @@
+User-agent: *
+Allow: *
+Sitemap: https://casino-booi.github.io/sitemap.xml
