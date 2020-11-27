@@ -1,5 +1,5 @@
 User-agent: *
-User-agent: Yandex
-Disallow: /amp/*
 Allow: *
+User-agent: Yandex
+Disallow: /amp/
 Sitemap: https://casino-booi.github.io/sitemap.xml
