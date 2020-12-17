@@ -9,7 +9,7 @@
         <description>Официальный сайт казино Booi, рабочее зеркало популярного онлайн казино Буи.</description>
         <language>ru</language>
 				
-        <item turbo="false">
+        <item turbo="true">
             <link>https://casino-booi.github.io/</link>
             <turbo:source></turbo:source>
             <turbo:topic></turbo:topic>
