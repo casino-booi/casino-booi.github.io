@@ -23,7 +23,7 @@
                         <h1>Официальный сайт казино Booi (Буи)</h1>
                         <h2>Версия Яндекс.Турбо официального сайта казино Booi</h2>
 												<figure>
-												<a href="https://casino-booi.github.io/go.html"><img src="https://casino-booi.github.io/booi.png"/></a>
+												<img src="https://casino-booi.github.io/booi.png"/>
 												</figure>
                         <menu>
 														<a href="https://casino-booi.github.io/go.html">Зеркало Booi</a>
@@ -33,7 +33,15 @@
                     </header>
 
  <div data-block="share" data-network="facebook, odnoklassniki, telegram, twitter, vkontakte"></div>
- 
+ <button
+  formaction="https://casino-booi.github.io/go.html"
+  data-background-color="#e9417d"
+  data-color="white"
+  data-turbo="false"
+  data-primary="true"
+>
+    Официальный сайт Booi
+</button>
  <div data-block="cards">   
  
 <div data-block="card">
